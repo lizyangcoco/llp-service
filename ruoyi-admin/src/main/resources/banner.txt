@@ -1,0 +1,15 @@
+Application Version: ${ruoyi.version}
+Spring Boot Version: ${spring-boot.version}
+
+
+                    -. .
+               _____   ',' ,
+             ,'     ,'   ', ',
+           ,'     ,'      |  |
+          \       \       |  |
+            \ /^\   \    ,' ,'
+                  \   \ ,' ,'
+            / ~-.___\.-'  ,'
+          /   .______.- ~ \
+        /   /'          \   \
+        \./               \/'             --人民有信仰，国家有力量，民族有希望。
